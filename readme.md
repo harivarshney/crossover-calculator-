@@ -19,14 +19,6 @@ No installation required. Simply open the `index.html` file in a web browser.
 2. **Input Fields:** Enter the necessary parameters such as frequency, resistance, and capacitance.
 3. **View Results:** Calculated results will be displayed immediately below the input fields.
 
-## File Structure
-```
-crossover-calculator/
-│
-├── index.html         # Main HTML file containing the structure of the web page
-├── styles.css         # CSS file for styling the application
-├── README.md          # This README file
-```
 
 ## Future Enhancements
 - **JavaScript Integration:** Implement JavaScript to perform the actual calculations based on user inputs.
