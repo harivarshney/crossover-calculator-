@@ -3,6 +3,9 @@
 ## Overview
 The Crossover Calculator is a web-based application designed to assist users in performing calculations related to audio crossovers. Built using HTML and CSS, the application features a simple and intuitive interface for easy data input and result visualization.
 
+## Screenshot
+![Screenshot 2024-07-09 221929](https://github.com/harivarshney/crossover-calculator-/assets/152633609/bcbbe54e-c774-4dea-b079-f5aecc64c3fa)
+
 ## Features
 - **User-friendly Interface:** Easy-to-navigate design for seamless user experience.
 - **Real-time Calculations:** Instantaneous display of results upon data entry.
